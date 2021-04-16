@@ -1,8 +1,9 @@
 # ImgSqizer
-## ImgSqizer (Pronounced Image squeezer) is a simple image compresser
+
+## ImgSqizer (Pronounced Image squeezer) is a simple image compressor
 
 ### usage:
-simply drag and drop images you want to compress over ImgSqizer
+simply drag and drop images you want to compress over ImgSqizer.exe
 
 the application will create an image with the same name and adds "compressed" suffix
 
