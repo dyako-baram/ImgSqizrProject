@@ -5,7 +5,9 @@
 ### usage:
 simply drag and drop images you want to compress over ImgSqizer.exe
 
-the application will create an image with the same name and adds "compressed" suffix
+the application will create an image with the same name and adds "compressed" suffix.
+
+<img src="HowTo.gif"/>
 
 **Note**: it is best used for JPEG images, PNG can sometimes create larger image in size, so it is hit or miss.
 
