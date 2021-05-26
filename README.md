@@ -13,7 +13,7 @@ the application will create an image with the same name and adds "compressed" su
 
 ----
 
-** which one should i download? **
+**which one should i download?**
 
  choose your operating system then you can choose either WR or Light file.
  the difference is WR (With Runtime) is bundled with .NET 5 runtime while Light isn't. 
